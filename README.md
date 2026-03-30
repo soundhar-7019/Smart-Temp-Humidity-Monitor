@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 The Idea
+## 🧠 The Idea 
 
 What if your room could **talk back to you**?
 
