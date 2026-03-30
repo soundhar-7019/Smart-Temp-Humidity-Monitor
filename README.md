@@ -58,12 +58,6 @@ I2C LCD      → Displays output 📟
 
 ---
 
-## 📸 Project in Action
-
-(Add your real project images here — this is IMPORTANT for impact)
-
----
-
 ## 💻 Code Structure
 
 ```bash
